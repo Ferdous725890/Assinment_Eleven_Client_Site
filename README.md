@@ -28,4 +28,4 @@ This is a car rental application designed to allow users to browse, book, and re
 ### Steps
 
 ## **Live Server** 🌐  
-[Visit Chill Gamer](https://loginfrom-525ec.web.app/)  
+[Visit Car Rental](https://loginfrom-525ec.web.app/)  
